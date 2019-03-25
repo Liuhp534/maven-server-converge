@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.liuhp</groupId>
-    <artifactId>maven-server</artifactId>
+    <artifactId>maven-server-converge</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -13,6 +13,8 @@
         <module>maven-server-core</module>
         <module>maven-server-parent</module>
         <module>maven-server-server</module>
+        <module>maven-server-domain</module>
+        <module>maver-server-provider</module>
     </modules>
 
 
